@@ -5,6 +5,10 @@ $(function(){
         arrows: false, 
     });
 
+    Fancybox.bind("[data-fancybox]", {
 
+      });
+
+    
 
 });
