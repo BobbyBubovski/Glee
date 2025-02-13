@@ -10,6 +10,7 @@
   "description": "",
   "devDependencies": {
     "@fancyapps/ui": "github:fancyapps/ui",
+    "@rateyo/jquery": "^3.0.0-alpha.2",
     "autoprefixer": "^10.4.20",
     "browser-sync": "^3.0.3",
     "fancybox": "^3.0.1",
@@ -22,6 +23,8 @@
     "gulp-postcss": "^10.0.0",
     "gulp-sass": "^6.0.0",
     "gulp-uglify-es": "^3.0.0",
+    "ion-rangeslider": "^2.3.1",
+    "rateyo": "^3.0.0-alpha.2",
     "sass": "^1.83.0"
   },
   "dependencies": {
