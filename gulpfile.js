@@ -127,6 +127,7 @@ function scripts() {
         'node_modules/@fancyapps/ui/dist/fancybox/fancybox.umd.js',
         'node_modules/ion-rangeslider/js/ion.rangeSlider.js',
         'node_modules/@rateyo/jquery/lib/iife/jquery.rateyo.js',
+        'node_modules/jquery-form-styler/dist/jquery.formstyler.js',
         'app/js/main.js'
     ]) // Указываем исходный JS файл
         .pipe(newer('app/js/main.min.js')) // Проверяем, изменился ли файл
